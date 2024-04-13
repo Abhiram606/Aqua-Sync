@@ -1,2 +1,2 @@
 # Aqua-Sync
-An automated plant care system that monitors soil moisture levels and administers precise watering, ensuring plants receive the right amount of water at the right time.
+AquaBot addresses the growing need for efficient plant care solutions in modern agriculture and urban gardening. Traditional watering methods often lead to overwatering or underwatering, resulting in wasted water and suboptimal plant health. AquaBot solves these challenges by automating the watering process based on real-time soil moisture data. This innovative system ensures healthier plant growth, reduces water wastage, and simplifies plant care. 
