@@ -26,14 +26,18 @@ Aqua-Sync addresses the growing need for efficient plant care solutions in moder
    - Select the appropriate Arduino board from the "Tools > Board" menu in the Arduino IDE.
    - Choose the correct port for your Arduino board from the "Tools > Port" menu.
 
-5. **Upload the Code to Arduino:**
+5. **Connect Components to Arduino:**
+   - Refer to the circuit diagram provided in the project documentation.
+   - Connect the soil moisture sensor, water pump, realy module, and other components to the corresponding pins on the Arduino board as per the circuit diagram.
+
+6. **Upload the Code to Arduino:**
    - Connect your Arduino board to your computer using a USB cable.
    - Click the "Upload" button (right arrow icon) in the Arduino IDE to compile and upload the Aqua-Sync code to your Arduino board.
 
-6. **Monitor Serial Output (Optional):**
+7. **Monitor Serial Output (Optional):**
    - If you want to view the real time moisture level of the soil, open the Serial Monitor in the Arduino IDE (Tools > Serial Monitor) to view the output.
 
-7. **Stopping the Code Execution:**
+8. **Stopping the Code Execution:**
    - To stop Aqua-Sync's code execution, disconnect the power supply or press the reset button on the Arduino board.
 
 
