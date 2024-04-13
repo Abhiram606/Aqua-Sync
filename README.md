@@ -33,7 +33,7 @@ AquaBot addresses the growing need for efficient plant care solutions in modern 
 6. **Monitor Serial Output (Optional):**
    - If you want to view the real time moisture level of the soil, open the Serial Monitor in the Arduino IDE (Tools > Serial Monitor) to view the output.
 
-7.**Stopping the Code Execution:**
+7. **Stopping the Code Execution:**
    - To stop AquaBot's code execution, disconnect the power supply or press the reset button on the Arduino board.
 
 
