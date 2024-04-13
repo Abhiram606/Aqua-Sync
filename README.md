@@ -13,7 +13,7 @@ AquaBot addresses the growing need for efficient plant care solutions in modern 
 ## How to Use the AquaBot Code:
 
 1. **Download the Arduino IDE:**
-   If you don't already have the Arduino IDE installed on your computer, download and install it from the official Arduino website: [Arduino Software](https://www.arduino.cc/en/software).
+   If you don't already have the Arduino IDE installed on your computer, download and install it from the official Arduino website([Arduino Software](https://www.arduino.cc/en/software)).
 
 2. **Open the Arduino IDE:**
    Launch the Arduino IDE on your computer.
@@ -33,7 +33,7 @@ AquaBot addresses the growing need for efficient plant care solutions in modern 
 6. **Monitor Serial Output (Optional):**
    - If you want to view the real time moisture level of the soil, open the Serial Monitor in the Arduino IDE (Tools > Serial Monitor) to view the output.
 
-7.**Stopping the Code Execution (Optional):**
+ 7.**Stopping the Code Execution (Optional):**
    - To stop AquaBot's code execution, disconnect the power supply or press the reset button on the Arduino board.
 
 
